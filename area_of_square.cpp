@@ -4,8 +4,8 @@
  #include <iostream>
  #include<cmath>
   using namespace std;
-
-  #define half 0.5
+//  i havw changedb from decimal to frctional number
+  #define half 1/2
 
   int main(){
   // we need to declare some variable here
